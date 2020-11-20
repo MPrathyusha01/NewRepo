@@ -60,3 +60,34 @@ or numbers works tooo! instad add double tab in next line
 1. Task 1
     1. Task 2
         1. Task 3
+        
+        
+        
+Check boxes
+============
+
+use - space square brace with space between it. If you add x between braces it adds as checked
+
+- [ ] Male
+
+- [X] Female
+
+Block quotes
+==============
+
+use greater to create a block. Use 2 for add block in block
+
+> Block
+
+>> block2
+
+Tables
+=======
+
+Use columns and OR symbol which in above enter button
+
+S.no | Name 
+-----|------
+01   | Chill
+02   | Cool
+03   | Ice
