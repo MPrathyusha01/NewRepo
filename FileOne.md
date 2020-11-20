@@ -121,6 +121,9 @@ Add an image
 
 
 
-
-
 ![mypic](9b128efbb07e5b85c735fc495513ac74.jpg)
+
+because the imagge is in the local system may not seen by other. So dowmload the picture. Copy the the link of pic and paste it in instead of jpg link
+
+
+![mypic2](https://raw.githubusercontent.com/MPrathyusha01/NewRepo/main/9b128efbb07e5b85c735fc495513ac74.jpg)
