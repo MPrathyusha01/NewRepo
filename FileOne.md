@@ -85,9 +85,36 @@ Tables
 =======
 
 Use columns and OR symbol which in above enter button
+Below a heading add -- to make it bold
+
 
 S.no | Name 
 -----|------
 01   | Chill
 02   | Cool
 03   | Ice
+
+To add exactly as left alligned text add : at start and end of --
+
+Roll number | Email id | Name
+:-----------|----------|------
+001 | prathyusha4501@gmail.com| M.Prathyusha
+
+
+To add exactly as center alligned text add : at start and end of --
+
+Roll number | Email id | Name
+:----------:|----------|------
+001 | prathyusha4501@gmail.com| M.Prathyusha
+
+To add exactly as right alligned text add : at start and end of --
+
+Roll number | Email id | Name
+-----------:|----------|------
+001 | prathyusha4501@gmail.com| M.Prathyusha
+
+
+Add an image
+=============
+
+![pic](https://th.bing.com/th/id/OIP.xnsDlENhmYpkJl-nFXYzMQHaEK?w=304&h=180&c=7&o=5&dpr=1.03&pid=1.7)
