@@ -34,7 +34,29 @@ Strong and emphasis by *** or you can use ___
 ___This also works___
 
 
-Adding links
+Adding links  []()
 ============
 
 [LinkedIn](https://www.linkedin.com/in/prathyusha-mogulluru-4501/)
+
+To navigate the file 
+[Heading](#Single Header "Go to headers")
+
+Order and Unorder List
+----------------------
+
+*use start and tab . Add space between word and star*
+* task1  
+  * task 2
+    * task 3
+      * task 4
+        * task 5
+
+
+We can also use - in place of *
+
+or numbers works tooo! instad add double tab in next line
+
+1. Task 1
+    1. Task 2
+        1. Task 3
